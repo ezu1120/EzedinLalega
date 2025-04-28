@@ -1,4 +1,4 @@
-👋 Hi, I'm Ezedin Laliga!  
+👋 Hi, I'm Ezedin Lalega!  
 I'm a passionate Software Engineering student based in Ethiopia. I love building impactful digital solutions and specialize in web development using React.js, Node.js, Express.js, MySQL, and more.
 
 🚀 What I Do:
