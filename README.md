@@ -17,4 +17,4 @@ I'm a passionate Software Engineering student based in Ethiopia. I love building
 
 Feel free to explore my repositories and collaborate on exciting projects!
 
-**Email:** ezedinlalega@example.com
+**Email:** ezulale1120@email.com
